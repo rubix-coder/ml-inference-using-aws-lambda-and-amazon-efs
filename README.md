@@ -40,7 +40,9 @@ Now, we are going to use a single SAM deployment to deploy this, which will crea
 
 Here is a quick walkthrough of the demo:
 
-![Video Walkthrough](video-walkthrough/demo.mp4)
+https://user-images.githubusercontent.com/56056673/131384905-4fc5cfbd-9251-4cbf-ba21-287808566073.mp4
+
+
 
 
 
